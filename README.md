@@ -7,3 +7,6 @@ Outside of work, I enjoy...
 - 🎹 Playing Piano
 - 📚 Reading.
 - 🛩️Traveling.
+
+
+[![Linkedin](https://github.com/AAdelaida/AAdelaida.github.io/blob/main/imagenes/linkedin.png)](https://www.linkedin.com/in/araceli-carre%C3%B1o-7a214a187/)
