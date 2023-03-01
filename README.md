@@ -9,4 +9,4 @@ Outside of work, I enjoy...
 - 🛩️Traveling.
 
 
-[![Linkedin](https://github.com/AAdelaida/AAdelaida.github.io/blob/main/Images/linkedin.png)](https://www.linkedin.com/in/araceli-carre%C3%B1o-7a214a187/)
+[![Linkedin](https://github.com/AAdelaida/AAdelaida.github.io/blob/main/images/logoLinkedin.png)](https://www.linkedin.com/in/araceli-carre%C3%B1o-7a214a187/)
